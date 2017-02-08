@@ -1,5 +1,7 @@
 # AngularTest
 
+This is me talking here - this project will be me messing around with angular.
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.30.
 
 ## Development server
